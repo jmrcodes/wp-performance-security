@@ -1,4 +1,5 @@
 <?php
+
 if ( !defined( 'ABSPATH' ) ) exit;
 
 // ADMINISTRATION Settings output function
@@ -181,4 +182,3 @@ function wpps_config_admin(){
 
 <?php
 }
-?>

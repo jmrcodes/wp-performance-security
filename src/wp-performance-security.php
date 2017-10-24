@@ -662,5 +662,3 @@ function wpps_init() {
 	}
 
 }
-
-?>
